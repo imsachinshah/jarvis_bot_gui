@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'd:\Minor Project\JarvisGUI\JarvisUI.ui'
+# Form implementation generated from reading ui file 'd:\jarvis_bot_gui\JarvisGUI\JarvisUI.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.4
 #
@@ -20,7 +20,7 @@ class Ui_jarvisGui(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(0, 0, 1121, 851))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("d:\\Minor Project\\JarvisGUI\\../212508.gif"))
+        self.label.setPixmap(QtGui.QPixmap("d:\\jarvis_bot_gui\\JarvisGUI\\../212508.gif"))
         self.label.setScaledContents(True)
         self.label.setObjectName("label")
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
@@ -44,7 +44,7 @@ class Ui_jarvisGui(object):
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
         self.label_2.setGeometry(QtCore.QRect(10, 30, 421, 81))
         self.label_2.setText("")
-        self.label_2.setPixmap(QtGui.QPixmap("d:\\Minor Project\\JarvisGUI\\../T8bahf.gif"))
+        self.label_2.setPixmap(QtGui.QPixmap("d:\\jarvis_bot_gui\\JarvisGUI\\../T8bahf.gif"))
         self.label_2.setScaledContents(False)
         self.label_2.setObjectName("label_2")
         self.textBrowser = QtWidgets.QTextBrowser(self.centralwidget)

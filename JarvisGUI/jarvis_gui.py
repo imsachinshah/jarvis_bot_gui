@@ -335,11 +335,11 @@ class Main(QMainWindow):
 
     def startTask(self):
         self.ui.movie = QtGui.QMovie(
-            "D:/Minor Project/JarvisGUI/Gifs/7LP8.gif")
+            "D:/jarvis_bot_gui/JarvisGUI/Gifs/7LP8.gif")
         self.ui.label.setMovie(self.ui.movie)
         self.ui.movie.start()
         self.ui.movie = QtGui.QMovie(
-            "D:/Minor Project/JarvisGUI/Gifs/Jarvis_Loading_Screen.gif")
+            "D:/jarvis_bot_gui/JarvisGUI/Gifs/Jarvis_Loading_Screen.gif")
         self.ui.label_2.setMovie(self.ui.movie)
         self.ui.movie.start()
         timer = QTimer(self)
