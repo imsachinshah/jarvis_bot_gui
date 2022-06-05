@@ -6,11 +6,11 @@ AI Jarvis is desktop assistant built using Python with GUI.
 
 Before Running the GUI of the bot.
 
-![Jarvis Bot] (Screenshorts\jarvis_bot_ss.png)
+![Jarvis Bot] (https://github.com/imsachinshah/jarvis_bot_gui/blob/main/Screenshorts/jarvis_bot_ss.png)
 
 During running the Bot:
 
-![Jarvis Bot] (Screenshorts\running_ss.png)
+![Jarvis Bot] (https://github.com/imsachinshah/jarvis_bot_gui/blob/main/Screenshorts/running_ss.png)
 
 ## Objective
 
