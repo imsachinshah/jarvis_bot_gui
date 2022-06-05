@@ -45,5 +45,5 @@ Jarvis Bot is made by using some python libraries which are:
 ## Made with ❤ by 
 
 - Abhishek Singh
-- Ansh Namdev
+- Ansh Namdeo
 - Sachin Shah
